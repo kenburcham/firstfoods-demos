@@ -1,0 +1,21 @@
+{
+  "name": "demo-firstfoods",
+  "authors": [
+    "Ken Burcham <kenburcham@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "filament-sticky": "fixed-sticky#^0.1.7"
+  }
+}

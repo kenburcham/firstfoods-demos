@@ -1,0 +1,21 @@
+{
+  "name": "demo-parallax",
+  "authors": [
+    "Ken Burcham <kenburcham@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "rellax": "*",
+    "jsplumb": "^2.4.3"
+  }
+}
